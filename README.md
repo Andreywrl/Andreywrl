@@ -1,6 +1,6 @@
 # A brief description of me
 - 👋 Hello! I'm glad you are here!
-- 👨‍💻 I’m Andrey Willian, 21, from Cachoeirinha, RS, Brazil.
+- 👨‍💻 I’m Andrey Willian, 21, from Brazil (🇧🇷).
 - 👨‍🎓 I'm majoring on Computer Science on UFRGS.
 - 🤵 I've been engaged in jewelry marketing (2013), electronics importing (2016) and development (2020).
 - 🗣️ Due to my commercial experiences, I've become very outgoing 😆
