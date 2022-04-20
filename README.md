@@ -1,4 +1,5 @@
 # A brief description of me
+![](https://komarev.com/ghpvc/?username=Andreywrl&style=for-the-badge&color=red)
 - 👨‍💻 Andrey Willian, 21, from Brazil (🇧🇷).
 - 📈 Junior Frontend Developer
 - 👨‍🎓 I'm majoring on Computer Science on UFRGS.
