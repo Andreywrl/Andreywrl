@@ -1,8 +1,7 @@
 # A brief description of me
 ![](https://komarev.com/ghpvc/?username=Andreywrl&style=for-the-badge&color=red)
-- 👨‍💻 Andrey Willian, 21, from Brazil (🇧🇷).
-- 📈 Junior Frontend Developer
-- 👨‍🎓 I'm majoring on Computer Science on UFRGS.
+- 👨‍💻 Andrey Willian, 22, from Brazil (🇧🇷).
+- 📈 Junior/mid Frontend Developer
 - 🗣️ Due to my commercial experiences, I've become very outgoing 😆
 - 🏳️ My mother language is portuguese, and I'm learning english (by myself, intermediate level).
 - 🌐 I’m looking foward to collaborating with ReactJS projects as Jr. developer (CLT and PJ) or freelancer.
