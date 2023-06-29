@@ -1,4 +1,10 @@
 # Hello, I'm Andrey Willian 🖐️
+
+![](https://komarev.com/ghpvc/?username=Andreywrl&style=for-the-badge&color=red)
+- 👨‍💻 22, from Porto Alegre - Brazil (🇧🇷).
+- 📈 Fullstack Developer
+- 🗣️ Due to my commercial experiences, I've become very outgoing 😆
+
 <div>
 <a href="https://github.com/Andreywrl">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreywrl&layout=compact&langs_count=7&theme=dracula"/>
