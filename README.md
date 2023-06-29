@@ -5,7 +5,17 @@
 </div>
 
 ## Technologies I'm interested in and working with:
-
+<div style="display: inline_block;">
+<img align="center" height="40" width="50" alt="NextJS Andrey"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="center" height="40" width="50" alt="ReactJS Andrey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" height="40" width="50" alt="JS Andrey"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" height="40" width="50" alt="TS Andrey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" height="40" width="50" alt="HTML Andrey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" height="40" width="50" alt="CSS Andrey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" height="40" width="50" alt="NodeJS Andrey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" height="40" width="50" alt="PHP Andrey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" height="40" width="50" alt="MySQL Andrey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
 
 ## How to find me:
 <div>
