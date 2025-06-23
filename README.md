@@ -1,9 +1,8 @@
 # Hello, I'm Andrey Willian 🖐️
 
 ![](https://komarev.com/ghpvc/?username=Andreywrl&style=for-the-badge&color=red)
-- 👨‍💻 23, from Porto Alegre - Brazil (🇧🇷).
+- 👨‍💻 24, from Porto Alegre - Brazil (🇧🇷).
 - 📈 Fullstack Developer
-- 🗣️ Due to my commercial experiences, I've become very outgoing 😆
 
 <div>
 <a href="https://github.com/Andreywrl">
